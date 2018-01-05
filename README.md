@@ -15,7 +15,7 @@ out collectively by the network. PROHVAC Crypto Core is the name of open source
 software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the PROHVAC Crypto Core software, see https://PROHVAC.net/en/download, or read the
+the PROHVAC Crypto Core software, see http://PROHVAC.net/en/download, or read the
 [original whitepaper](http://PROHVAC.net/PROHVAC.pdf).
 
 License
