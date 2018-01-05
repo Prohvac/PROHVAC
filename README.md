@@ -16,7 +16,7 @@ software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
 the PROHVAC Crypto Core software, see https://PROHVAC.net/en/download, or read the
-[original whitepaper](https://PROHVAC.net/PROHVAC.pdf).
+[original whitepaper](http://PROHVAC.net/PROHVAC.pdf).
 
 License
 -------
